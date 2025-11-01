@@ -42,7 +42,7 @@ Mục tiêu của chúng tôi là "Hiệu quả và thân thiện cho tất cả
 ## Các chức năng của S-Cart:
 
 ###  S-Cart - Thương mại điện tử Laravel MIỄN PHÍ cho doanh nghiệp 
-
+#### good one 
 #### Tính năng cốt lõi
 - Xây dựng gói plugin theo mô hình HMVC
 - Hỗ trợ nâng cấp và vá lỗi S-Cart qua dòng lệnh
